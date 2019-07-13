@@ -1,0 +1,12 @@
+ÇáÊÇãÈáÊ 
+https://bootsnipp.com/snippets/vl4R7
+
+ŞÑÇÁÉ ãä ÇáÏÇÊÇ ÈíÒ ÚÑÖ ÇáÈíÇäÇÊ 
+https://www.w3schools.com/php/php_mysql_select.asp
+
+ÇáÇÊÕÇá ãÚ ÇáÏÇÊÇ æÇáÊÚÏíá 
+https://www.w3schools.com/php/php_mysql_update.asp
+
+Ajax
+http://talkerscode.com/webtricks/ajax-login-form-using-jquery-php-and-mysql.php
+
